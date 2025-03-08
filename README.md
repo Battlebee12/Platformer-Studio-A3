@@ -1,10 +1,10 @@
 # Third Person Platformer
 
-A simple third person character controller in Unity
+A simple third person character controller in Unity: Sarabroop Aulakh 24102220
 
 ## Demo
 
-https://github.com/user-attachments/assets/91485280-b86b-4c82-ac11-2a5107730e94
+Demo Video: https://youtu.be/xQbuUqy-OJg
 
 ## Cloning & Setting Up the Project
 
